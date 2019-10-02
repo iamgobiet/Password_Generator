@@ -16,11 +16,6 @@ function generate() {
 }
 
 
-document.getElementById("length").innerHTML = "length: 25";
 
-document.getElementById("slider").oninput = function(){
 
-    if(document.getElementById("slider").value > 0){
-        document/getComputedStyle("length").innerHTML = "length: " + document.getElementById("slider").value;
-    }
-}
+    
